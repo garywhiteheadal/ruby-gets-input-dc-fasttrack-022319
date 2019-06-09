@@ -3,3 +3,4 @@ def greeting
 end
 name = gets.strip
 greeting(name)
+puts "Gary"
